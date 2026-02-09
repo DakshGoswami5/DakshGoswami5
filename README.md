@@ -38,7 +38,7 @@ Gemini API • Generative AI • Face-API
 Real-time chatbot using WebSockets with session-based memory and AI responses.  
 Tech: React, Node.js, Express, Socket.IO  
 Live: [Chatbot](https://chat-bot-omega-amber.vercel.app/)  
-Repo: [ChatBot Repo)](https://github.com/DakshGoswami5/ChatBot)
+Repo: [ChatBot Repo](https://github.com/DakshGoswami5/ChatBot)
 
 ### 🔹 AI Social Media Platform
 JWT HttpOnly authentication with AI-generated captions and cloud image storage.  
