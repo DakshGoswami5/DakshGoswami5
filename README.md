@@ -37,18 +37,18 @@ Gemini API • Generative AI • Face-API
 ### 🔹 AI ChatBot (Real-Time)
 Real-time chatbot using WebSockets with session-based memory and AI responses.  
 Tech: React, Node.js, Express, Socket.IO  
-Live: [(Add Link)](https://chat-bot-omega-amber.vercel.app/)  
-Repo: [(Add Link)](https://github.com/DakshGoswami5/ChatBot)
+Live: [Chatbot](https://chat-bot-omega-amber.vercel.app/)  
+Repo: [ChatBot Repo)](https://github.com/DakshGoswami5/ChatBot)
 
 ### 🔹 AI Social Media Platform
 JWT HttpOnly authentication with AI-generated captions and cloud image storage.  
 Tech: MERN, ImageKit, Gemini API  
-Live: [(Add Link)](https://social-media-gamma-opal.vercel.app/)  
-Repo: [(Add Link)](https://github.com/DakshGoswami5/Social-Media)
+Live: [AI Social Media Platform](https://social-media-gamma-opal.vercel.app/)  
+Repo: [AI Social Media Platform Repo](https://github.com/DakshGoswami5/Social-Media)
 
 ---
 
 ## 📫 Connect With Me
-- Portfolio: [https://your-link.vercel.app](https://portfolio-iota-puce-25.vercel.app/)
-- LinkedIn: [(Add LinkedIn)](https://www.linkedin.com/in/daksh-goswami-/)
+- Portfolio: [Portfolio](https://portfolio-iota-puce-25.vercel.app/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daksh-goswami-/)
 - Email: dakshgoswami2@gmail.com
